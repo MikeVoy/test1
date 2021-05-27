@@ -19,6 +19,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //初始化控件
         initView();
+        //初始化数据
+        initData();
+
+    }
+
+    private void initData() {
+        //初始化数据请求
+
     }
 
     private void initView() {
